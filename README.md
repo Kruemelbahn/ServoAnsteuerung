@@ -1,6 +1,6 @@
 ﻿ # ServoAnsteuerung
 
-...is a Windows program for setting the operating parameters for the servo controls ([Servo](http://www.github.com/Kruemelbahn/Servo) or [Servo2](http://www.github.com/Kruemelbahn/Servo2)).
+...is a Windows program for setting the operating parameters for the servo controls ([Servo](https://www.github.com/Kruemelbahn/Servo) or [Servo2](https://www.github.com/Kruemelbahn/Servo2)).
 The program is only necessary if your servocontrol does not function satisfactorily with the default settings.
 The program is compiled for x64-mode and works under Windows 11 and may work also on previous Windows-Versions (without guarantee).<br>
 
